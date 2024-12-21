@@ -1,4 +1,4 @@
-"Visit the portal at http://localhost:5173 to view the website."
+"Visit the portal at http://localhost:5173 to view the website after installation process."
 
 
 🎵 Hymnonics: A Modern Music Library Application
