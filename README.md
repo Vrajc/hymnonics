@@ -1,3 +1,6 @@
+"Visit the portal at http://localhost:5173 to view the website."
+
+
 🎵 Hymnonics: A Modern Music Library Application
 Hymnonics is a feature-rich music library application built using React.js for the frontend and Node.js with MongoDB for the backend. It allows users to explore, organize, and play their favorite songs seamlessly. The application implements user authentication, role-based access control, and efficient data chunking for optimal storage and retrieval of music files.
 
